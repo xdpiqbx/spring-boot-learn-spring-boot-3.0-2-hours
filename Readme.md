@@ -246,10 +246,10 @@ customer=# select * from customer;
 customer=# \d customer
 ```
 
-`amigoscode=# \c customer` - connect to customer
-`customer=# \dt` - to see database tables
-`customer=# \d` - to see all relations
-`customer=# \d customer` - to see table structure
+- `amigoscode=# \c customer` - connect to customer
+- `customer=# \dt` - to see database tables
+- `customer=# \d` - to see all relations
+- `customer=# \d customer` - to see table structure
 ---
 
 ### CRUD
